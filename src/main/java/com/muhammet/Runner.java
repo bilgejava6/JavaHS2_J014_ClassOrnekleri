@@ -13,6 +13,25 @@ public class Runner {
          * --- 6 adet ürün oluşturup listeye ekliyorsunuz.
          * --- listeme yapıyorsunuz.
          */
+
+        /**
+         *
+         * Okul class
+         * --- ad
+         * --- adres
+         * --- telefon
+         * --- müdür adı
+         * --- sınıf listesi
+         *
+         * Sınıf
+         * --- ad
+         * --- kat
+         * --- odano
+         * --- öğrenci sayısı
+         *
+         * 1 adet okul, içerisine 4 adet sınıf ekleyin.
+         *
+         */
         urunTanimlaListeyeEkle();
         listUrun();
     }
